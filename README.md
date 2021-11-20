@@ -1,5 +1,5 @@
 ### Hi, I'm Juan 👋
- 
+ JS
 ```javascript
 const juanChoque = {
   pronouns: "he" | "hin",
