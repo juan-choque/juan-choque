@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hi, I'm Juan 👋
+ 
+```javascript
+const juanChoque = {
+  pronouns: "he" | "hin",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [Angular, Node]
+}
+```
 <!--
 **juan-choque/juan-choque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
